@@ -1,0 +1,33 @@
+*,
+html{
+    padding: 0%;
+    margin: 0%;
+}
+.sejarah {
+    background-color: #b58282;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    
+}
+.revulusi {
+    background-color: #37ba52;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 30px;
+}
+.revolusipertama {
+    background-color: #88ad90;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 30px;
+}
+.penutup {
+    background-color: #d0b6b6;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 20px;
+}
